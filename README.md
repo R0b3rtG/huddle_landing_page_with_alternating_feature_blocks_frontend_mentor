@@ -4,7 +4,7 @@
 
 ---
 
-**Live link: <https://r0b3rtg-huddle-landing-page-with-alternating-feature-blocks.netlify.app/>**
+**Live link: <https://r0b3rtg-huddle-alternating.netlify.app/>**
 
 ---
 
